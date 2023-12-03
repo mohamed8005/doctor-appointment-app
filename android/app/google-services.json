@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608259158156",
+    "project_id": "fir-app-fb241",
+    "storage_bucket": "fir-app-fb241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608259158156:android:9ae12d36f4f77c0489cba9",
+        "android_client_info": {
+          "package_name": "com.example.gestion_attente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608259158156-7h16a23uf7iu7mbftaj0vnfcdemb5qa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtq8xg5c9uIZD_0NYVZcULZAKxdsYOtck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608259158156-7h16a23uf7iu7mbftaj0vnfcdemb5qa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
